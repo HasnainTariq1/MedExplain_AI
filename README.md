@@ -33,7 +33,7 @@ MedExplain AI is a full-stack web application that helps patients understand the
 | Framer Motion | Animations |
 | React Dropzone | File upload |
 | Lucide React | Icons |
-| OpenAI API | AI generation (optional) |
+| OpenAI API | AI generation |
 
 ## 🚀 Getting Started
 
