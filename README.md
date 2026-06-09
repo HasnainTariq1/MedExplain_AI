@@ -46,8 +46,8 @@ MedExplain AI is a full-stack web application that helps patients understand the
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd medexplain-ai
+   git clone https://github.com/HasnainTariq1/MedExplain_AI.git
+   cd medexplain_ai
    ```
 
 2. Install dependencies:
